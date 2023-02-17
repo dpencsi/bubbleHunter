@@ -14,6 +14,7 @@
 - change sprite
 - add leaderboard
 - mobile usage support
+- add restart button when the player lose
 
 ### Current issues:
 - the two sound effect sometimes not playing when we pop two bubbles at the sime time or in just a few milliseconds difference
